@@ -12,7 +12,7 @@ In React, create a simple task list application (TO-DO App). The application aft
 
 ## Live preview
 
-[Link to github.io preview page]()
+[Link to github.io preview page](https://tomaszrybacki.github.io/TO-DO-App/)
 
 ## Built with
 
